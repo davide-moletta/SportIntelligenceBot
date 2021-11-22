@@ -6,7 +6,7 @@ import org.telegram.abilitybots.api.toggle.BareboneToggle;
 
 public class Bot extends AbilityBot {
 
-    public static String BOT_TOKEN = "2117322533:AAFgTBuFFJ8s9GeCSi6rVnbD_dfzMqRN4Zo";
+    public static String BOT_TOKEN = "<BOT TOKEN>";
     public static String BOT_USERNAME = "SportIntelligenceBot";
     public static FireBase fireBase = new FireBase();
 
